@@ -11,7 +11,7 @@
 
 **Commerce AI Analytics** is a high-performance, asynchronous microservice designed for e-commerce platforms. It solves the critical business challenge of understanding customer sentiment at scale.
 
-Unlike simple sentiment analysis (Positive/Negative), this application leverages **IBM Watson NLP libraries** to detect granular emotions—**Joy, Anger, Fear, Sadness, and Disgust**—within customer feedback text. This enables data-driven decisions for product improvement and customer support automation.
+This application leverages to detect granular emotions—**Joy, Anger, Fear, Sadness, and Disgust**—within customer feedback text. This enables data-driven decisions for product improvement and customer support automation.
 
 ## 🚀 Key Features
 
