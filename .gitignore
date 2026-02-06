@@ -1,0 +1,21 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Environments & Secrets ---
+env/
+venv/
+.env
+
+# --- MacOS ---
+.DS_Store
+
+# --- IDE Settings ---
+.idea/
+.vscode/
+
+# --- Testing & Linting ---
+.pytest_cache/
+.coverage
+htmlcov/
